@@ -1,5 +1,3 @@
-![alt text](https://raw.githubusercontent.com/DaniWinter/AVG-Wetgeving/master/wetgeving-bescherming-persoonsgegevens-beveiliging-780x282-768x278.jpg "AVG Wetgeving")
-
 Vanaf 25 mei 2018 is de Algemene verordening gegevensbescherming (AVG) van kracht. Ook wel bekend onder de naam General Data Protection Regulation (GDPR). Dat betekent dat er vanaf die datum dezelfde privacywetgeving geldt in de gehele Europese Unie (EU). De Wet bescherming persoonsgegevens (Wbp) geldt vanaf dat moment niet meer.
 
 # Wat is het doel van AVG?
