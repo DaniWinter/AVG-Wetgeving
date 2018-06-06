@@ -1,3 +1,22 @@
 <head>
   <script src="https://cdn.d4ni.nl/js/jquery/3.3.1.js"></script>
+  <script>
+    $(function(){
+      getContent();
+    });
+    
+    function getContent() {
+      //header
+      $.ajax({
+        type: "GET",
+        url: "https://api.d4ni.nl/test.php",
+        success:function(data) {
+          $("#header").html(data);
+        }
+      });
+    }
+  </script>
 </head>
+<body>
+  <div id="header"></div>
+</body>
