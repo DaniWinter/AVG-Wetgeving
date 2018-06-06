@@ -12,6 +12,9 @@
         url: "https://api.d4ni.nl/test.php",
         success:function(data) {
           $("#header").html(data);
+        },
+        error:function(xhr, textStatus, errorThrown){
+          $("#header").html('No connection to the PHP server.');
         }
       });
     }
